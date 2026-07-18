@@ -12,7 +12,7 @@ my top 3 tech has to be linux, vim (not neovim), and go.
 
 | project | about |
 |---|---|
-| [pomo-tracker](https://github.com/DJisaiah/pomo-tracker) <br> ->*python, flet, sqlite* | pomodoro app with actual tracking, human connection, and discord integration. i like to think of it as being able to study with others, while also focusing on your own. started as a "just for me" project, turned it into something other people can use and share. please star my repo 🥹 |
+| [pomo-tracker](https://github.com/DJisaiah/pomo-tracker) <br> ->*python, flet, sqlite* | pomodoro app with actual tracking, human connection, and discord integration. i like to think of it as being able to study with others, while also focusing on your own. started as a "just for me" project, turned it into something other people can use and share. please star my repo or leave a review on the microsoft store listing 🥹 |
 | [pomo-tracker-sync](https://github.com/DJisaiah/pomo-tracker-sync) <br> ->*go, postgresql* | cross-platform sync for the app above. writing it in go because im a little tired of all the frameworks and abstraction. ive also just been interested in go for a while. |
 | [pomo-tracker-site](https://github.com/DJisaiah/pomo-tracker-site) <br> ->*typescript, vite, go* | promo site for the app. keeping it minimal, just ts + vite, no frameworks. go backend again |
 | [pixmat-c](https://github.com/DJisaiah/pixmat-c) <br> ->*C* | zero-dependency C tool for image manipulation via matrix operations. wanted to go low-level and figured id combine it with the linear algebra id learnt from class |
