@@ -2,7 +2,7 @@
 
 ### about me
 
-2nd year computer science student at stellenbosch university. python is my comfort language but im actively trying to escape it and expand my capabilities; writing a lot more go and typescript lately. decent at java from school, and i also like C. 
+python is my comfort language but im actively trying to escape it and expand my capabilities; writing a lot more go and typescript lately. decent at java from school, and i also like C. 
 
 i really enjoy making things as you can tell by the spread of languages, but i also want to try my hand at bridging those skills into making electronics in the future, and at some point bridging tech and biology.
 
